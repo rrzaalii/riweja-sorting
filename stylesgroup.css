@@ -2,11 +2,15 @@
 
 
 html {
+    background-color: #ffdbba;
     text-align: center;
     font-family: 'Bona Nova SC';
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    display: flex;
+    min-height: 100vh;
+    margin: 0;
 }
 
 h1 {
@@ -62,4 +66,44 @@ h3 {
 
 #kresna {
     background-color: #c75f85;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 48px;
+        margin-top: 50px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    button {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 36px;
+        margin-top: 30px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    input, button {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
 }
