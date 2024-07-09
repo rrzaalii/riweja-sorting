@@ -11,6 +11,7 @@ html {
     align-items: center;
     min-height: 100vh;
     margin: 0;
+    padding: 10px;
 }
 
 h1 {
@@ -75,7 +76,7 @@ img {
     margin: 0 auto;
 }
 
-/* Media queries for responsive design */
+
 @media (max-width: 768px) {
     h1 {
         font-size: 48px;
@@ -86,10 +87,6 @@ img {
         font-size: 24px;
     }
 
-    button {
-        padding-left: 2rem;
-        padding-right: 2rem;
-    }
 }
 
 @media (max-width: 480px) {
@@ -101,9 +98,5 @@ img {
     h2 {
         font-size: 20px;
     }
-
-    input, button {
-        padding-left: 1rem;
-        padding-right: 1rem;
-    }
 }
+
