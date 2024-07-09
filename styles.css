@@ -94,10 +94,6 @@ img {
         font-size: 24px;
     }
 
-    button {
-        padding-left: 2rem;
-        padding-right: 2rem;
-    }
 }
 
 @media (max-width: 480px) {
@@ -108,11 +104,6 @@ img {
 
     h2 {
         font-size: 20px;
-    }
-
-    input, button {
-        padding-left: 1rem;
-        padding-right: 1rem;
     }
 }
 
