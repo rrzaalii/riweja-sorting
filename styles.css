@@ -24,9 +24,12 @@ html {
     background-color: #ffdbba;
     text-align: center;
     font-family: 'Bona Nova SC';
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    display: flex;
+    min-height: 100vh;
+    margin: 0;
 }
 
 h1 {
