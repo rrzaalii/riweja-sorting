@@ -34,7 +34,7 @@ html {
 
 h1 {
     margin-top: 70px;
-    font-size: 63px;
+    font-size: 50px;
     color: #5C3613;
     font-family: 'Bona Nova SC';
     text-shadow: 0px 0px 10px rgba(118, 118, 118, 0.2);
@@ -43,7 +43,7 @@ h1 {
 
 h2 {
     margin-top: 5px;
-    font-size: 30px;
+    font-size: 20px;
     color: #5C3613;
     font-family: "Archivo Black";
     text-shadow: 0px 0px 10px rgba(118, 118, 118, 0.2);
@@ -54,7 +54,7 @@ h2 {
 
 button {
     width: auto;
-    padding: 10px;
+    padding: 60px;
     padding-right: 4rem;
     padding-left: 4rem;
     border: 2px solid #5C3613;
