@@ -4,7 +4,7 @@ function groupSort() {
     const groups = {
         "rama": ["alief daffa zuhairi", "hafizhuddin ahmad zuhdi al azzam", "kenzie ibastian hanif", "ryu revanda islamay cahyono", "nawra ramadhana", "azka shaula latifa", "micha anargya haryoko"],
         "sinta": ["arfa yudistira waskito", "arya pramono jati nugroho", "ganendra hakim mahardika", "m hafizh febriansyah", "arumi rastika zahra", "aurora putri herisa", "neldarain shabira", "adheputri syifa sahasika"],
-        "antareja": ["aji aliffendri anan viky", "archi emir radityo", "galanga addin islami", "muhammad aqila reswara irawan", "nayla felicia putri", "quinsha justitia ramadhani", "sharah almaira ramadhani"],
+        "antareja": ["aji aliffendri anan viky", "archi emir radityo", "galanga addin islami", "muhammad aqila reswara irawan", "nayla felicia putri", "quinsha justitia ramadhani", "sharah almaira ramadhani", "samara avanie khadijah"],
         "bisma": ["muhammad fardad abdillah dermawan", "putra abimanyu", "shaman arundaya", "zhafran maulana firdaus", "dyora quinsa cahyono", "ameera nindita ayu ramadhani", "azka rana zahidah"],
         "srikandi": ["arkan attaya romadhon", "kyle christopher davis", "rafaa kenzie athaariq hamiseno", "wiratama azhka anwarsyah", "aiko aisyah mazaya", "naila tsabita tamimy", "saarah mohammad ashiblie"],
         "kresna": ["abiyasa ari hanggoro", "achmad mirza afandi", "azka satriatama priambodo", "zathalarezel alexander brahman susetya", "zara aaqilla assadiya", "azallea athaya zahvazeta", "asy syifa amatullah al bahri"]
